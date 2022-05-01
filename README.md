@@ -26,5 +26,5 @@ Here are some ideas to get you started:
 <img  alt="github" height= "170rem" src="https://github-readme-stats.vercel.app/api?username=ddevdan&show_icons=true&theme=react&count_private=true&include_all_commits=true"/>
 
   
-  <img  alt="github" height= "170rem" src="http://127.0.0.1:5000/"/>
+  <img  alt="github" height= "170rem" src="http://localhost:5000/"/>
 </div>
