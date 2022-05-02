@@ -26,7 +26,7 @@ Here are some ideas to get you started:
  -->
  
  
-<img  alt="github" width= "273px" src="https://dnc331.pythonanywhere.com/lastfm/generate/oieusouodan"/>
+<!-- <img  alt="github" width= "273px" src="https://dnc331.pythonanywhere.com/lastfm/generate/oieusouodan"/> -->
 
  
 <!-- </div> -->
