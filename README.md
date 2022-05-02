@@ -25,5 +25,4 @@ Here are some ideas to get you started:
 <img  alt="github" height= "170rem" src="https://github-readme-stats.vercel.app/api?username=ddevdan&show_icons=true&theme=react&count_private=true&include_all_commits=true"/>
  -->
   
-  <img  alt="github" width= "273px" src="https://dnc331.pythonanywhere.com/lastfm/generate/oieusouodan"/>
 <!-- </div> -->
