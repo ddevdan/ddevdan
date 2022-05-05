@@ -1,5 +1,4 @@
-##### Last track played:
-<img  alt="github" height="50px" src="https://dnc331.pythonanywhere.com/lastfm/generate/oieusouodan?name=dan"/>
+<img  alt="github" height="auto" src="https://dnc331.pythonanywhere.com/lastfm?username=oieusouodan&title=Last played track"/>
 
 <!--
 **ddevdan/ddevdan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
