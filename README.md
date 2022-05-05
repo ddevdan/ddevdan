@@ -1,4 +1,4 @@
-<img  alt="github" height="auto" src="https://dnc331.pythonanywhere.com/lastfm?username=oieusouodan&title=Last played track"/>
+<img  alt="github" height="auto" src="https://dnc331.pythonanywhere.com/lastfm?username=oieusouodan"/>
 
 <!--
 **ddevdan/ddevdan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
