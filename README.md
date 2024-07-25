@@ -1,5 +1,8 @@
 <img alt="hey blob" src="https://user-images.githubusercontent.com/42525687/206569400-6012034e-bced-44e2-9f99-e54aa36d6bc1.gif" width="20" />
 
+
+
+Tava ouvindo essa
 <img  alt="github" height="auto" src="https://dnc331.pythonanywhere.com/lastfm?username=oieusouodan"/>
 
 <!--
